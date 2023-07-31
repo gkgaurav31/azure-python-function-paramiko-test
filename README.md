@@ -1,6 +1,6 @@
 # java-python-function-paramiko-test
 
-![image](https://github.com/gkgaurav31/java-python-function-paramiko-test/assets/9574170/fb5d9216-8355-4b07-96a7-9bf94addd6f6)
+![image](https://github.com/gkgaurav31/java-python-function-paramiko-test/assets/9574170/949705ce-75a8-471f-a5ed-6bf4f624d3b4)
 
 To test:
 
